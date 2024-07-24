@@ -44,4 +44,4 @@ Fundamentos de Python 1;
 
 ##### LÍNGUAS EXTRANGEIRAS:
 
-Por fim, realizo do curso de língua inglesa, na *Legacy Education*, além da aprendizagem autodidata, e estou no nível intermediário da língua.
+Por fim, realizo do curso de língua inglesa, na *Escola de Inglês Legacy Education*, além da aprendizagem autodidata, e estou no nível intermediário da língua.
