@@ -16,6 +16,7 @@ Dentro dessas matérias, desenvolvemos algumas habilidades específicas, sendo e
 + *Documentação de levantamento de requisitos de projetos*;
 + *Relação entre provedor de serviços e cliente*;
 + *Configuração de máquinas virtuais*;
++ *Aprendemos a trabalhar com SCRUM*;
 + *Usar Canva*;
 + *Usar VSCode*.
 
