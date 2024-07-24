@@ -31,10 +31,11 @@ Dentro da instituição de ensino, também foram oferecidas algumas palestras e 
 Além disso, dentro e fora da instituição de ensino, pude realizar alguns cursos para aperfeiçoamento dos conhecimentos da área de tecnologia, sendo eles:
  Fundamentos de Python 1;
 <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" width= "100px" height= "100px">
+
  Privacidade de dados (LGPD);
 <img src="https://img.freepik.com/vetores-premium/monitor-lcd-closeup-e-icones-de-marketing-menores_18591-8245.jpg" width= "100px" height= "100px">
- Fundamentos de hardware e software;
 
+ Fundamentos de hardware e software;
 <img src="https://lec.com.br/wp-content/uploads/2021/07/20945597-1100x1100-2.jpg" width= "100px" height= "100px">
 
 ##### LÍNGUAS EXTRANGEIRAS:
