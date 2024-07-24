@@ -29,7 +29,8 @@ Dentro da instituição de ensino, também foram oferecidas algumas palestras e 
 ##### CURSOS:
 
 Além disso, dentro e fora da instituição de ensino, pude realizar alguns cursos para aperfeiçoamento dos conhecimentos da área de tecnologia, sendo eles:
- Fundamentos de Python 1;
+
+Fundamentos de Python 1;
 
 <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" width= "100px" height= "100px">
 
