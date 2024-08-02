@@ -18,7 +18,8 @@ Dentro dessas matérias, desenvolvemos algumas habilidades específicas, sendo e
 + *Configuração de máquinas virtuais*;
 + *Aprendemos a trabalhar com SCRUM*;
 + *Usar Canva*;
-+ *Usar VSCode*.
++ *Usar VSCode*;
++ *Introdução ao deselvolvimento de back-end e front-end*.
 
 ##### PALESTRAS:
 Dentro da instituição de ensino, também foram oferecidas algumas palestras e atividades práticas, dando ênfase para:
