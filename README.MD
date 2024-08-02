@@ -44,6 +44,10 @@ Fundamentos de Python 1;
 
 <img src="https://lec.com.br/wp-content/uploads/2021/07/20945597-1100x1100-2.jpg" width= "100px" height= "100px">
 
+##### MÉRITOS ACADÊMICOS:
+
+- Aprovação no vestibuar de medicina, no 1º ano do ensino médio.
+
 ##### LÍNGUAS EXTRANGEIRAS:
 
 Por fim, realizo do curso de língua inglesa, na *Escola de Inglês Legacy Education*, além da aprendizagem autodidata, e estou no nível intermediário da língua.
