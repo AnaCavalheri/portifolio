@@ -47,6 +47,7 @@ Fundamentos de Python 1;
 ##### MÉRITOS ACADÊMICOS:
 
 - Aprovação no vestibuar de medicina, no 1º ano do ensino médio.
+- Monitoria Mundo Senai 2024.
 
 ##### LÍNGUAS EXTRANGEIRAS:
 
